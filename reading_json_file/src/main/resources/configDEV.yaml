@@ -1,0 +1,8 @@
+#p-api
+papi:   
+  port: "8082" 
+  protocol: "http"
+  host: "localhost"
+
+api:
+  autodiscovery: "18328538"

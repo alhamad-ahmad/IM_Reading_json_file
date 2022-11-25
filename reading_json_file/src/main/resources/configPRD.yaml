@@ -1,0 +1,9 @@
+#e-api
+eapi:   
+  port: "" 
+  protocol: "https"
+  host: ""
+
+
+api:
+  autodiscovery: "18328538"
